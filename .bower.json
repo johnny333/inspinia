@@ -1,0 +1,12 @@
+{
+  "name": "inspinia",
+  "_release": "v2.6.2.1",
+  "_resolution": {
+    "type": "tag",
+    "tag": "v2.6.2.1",
+    "commit": "b46feed3b2450079e1565a9684680f519a2b9a0d"
+  },
+  "_source": "ssh://git@gitlab.softja.pl:6001/vershold/vershold-inspinia-template.git",
+  "_target": "v2.6.2.1",
+  "_originalSource": "git+ssh://git@gitlab.softja.pl:6001/vershold/vershold-inspinia-template.git"
+}
